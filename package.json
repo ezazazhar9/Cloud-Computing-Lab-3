@@ -1,12 +1,8 @@
-{
-  "name": "cloud-computing-lab-3",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Velora website with Netlify Database",
-  "scripts": {
-    "build": "echo 'Build complete'"
-  },
-  "dependencies": {
-    "@netlify/database": "^1.0.0"
-  }
-}
+   {
+     "name": "velora",
+     "version": "1.0.0",
+     "private": true,
+     "dependencies": {
+       "@netlify/database": "latest"
+     }
+   }
